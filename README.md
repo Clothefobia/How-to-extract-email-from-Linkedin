@@ -1,7 +1,7 @@
 # How-to-extract-email-from-Linkedin
 How to extract email from Linkedin website.. linkedin is most popular social media website, have more good leads..our software will extract emails from linkedin very easily
 
-Check software on below link
+Check software on below link for check software detail 
  https://codecanyon.net/item/linkedin-email-extractor/26571184
 
  <h4>What is Linkedin Email Extractor?</h4>
